@@ -1,0 +1,1 @@
+futures::sink::Send<'_, futures::futures_channel::mpsc::Sender<Box<(dyn FnOnce() + std::marker::Send + 'static)>>, Box<(dyn FnOnce() + std::marker::Send + 'static)>>

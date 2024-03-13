@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_app0_guessing_game" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/_app1_cli_minigrep" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/adder_testing_test" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/advanced_traits" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lifetime" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oop_State_Design_Pattern" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pointers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/publishing_a_rust_crate" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/struct_" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/test_" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/threads" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/unsafe_" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workspase_add/add-one" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workspase_add/add-two" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/workspase_add/adder" vcs="Git" />
+  </component>
+</project>

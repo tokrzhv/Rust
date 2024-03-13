@@ -1,0 +1,1 @@
+D:\Program\Rust\lets_get_rusty\workspase_add\target\debug\adder.exe: D:\Program\Rust\lets_get_rusty\workspase_add\add-one\src\lib.rs D:\Program\Rust\lets_get_rusty\workspase_add\add-two\src\lib.rs D:\Program\Rust\lets_get_rusty\workspase_add\adder\src\main.rs

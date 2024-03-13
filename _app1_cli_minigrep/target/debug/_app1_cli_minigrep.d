@@ -1,0 +1,1 @@
+D:\Program\Rust\lets_get_rusty\_app1_cli_minigrep\target\debug\_app1_cli_minigrep.exe: D:\Program\Rust\lets_get_rusty\_app1_cli_minigrep\src\lib.rs D:\Program\Rust\lets_get_rusty\_app1_cli_minigrep\src\main.rs
